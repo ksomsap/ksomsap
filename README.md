@@ -1,4 +1,5 @@
 # 👋 Hi, I'm KM-Dev
 
-![Pacman](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ksomsap&theme=flat&no-frame=true)
+
 
