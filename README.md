@@ -1,4 +1,9 @@
-# 👋 Hi, I'm KM-Dev
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=Hi+I'm+KM-Dev;Developer;And+Fullstack+Learner)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,github,figma,tailwind" />
+</p>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
 
 1.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ksomsap&theme=flat&no-frame=true)
@@ -46,15 +51,13 @@
 ![Achievements](https://metrics.lecoq.io/ksomsap?achievement=1)
 
 16.
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,github,figma,tailwind" />
-</p>
+
 
 17.
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&lines=Hi+I'm+KM-Dev;Frontend+Developer;Fullstack+Learner)
+
 
 18.
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
 
 
 
