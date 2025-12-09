@@ -4,8 +4,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,github,figma,tailwind" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
 
 
 
